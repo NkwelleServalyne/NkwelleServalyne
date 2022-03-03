@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @NkwelleServalyne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Nkwelle Servalyne
+nservalyne@gmail.com
+650421334
+http://udemy.com
+http://stack overflow.org
+http://twitter.com
+http://mail.google.com
+https://www.linkedin.com/in/nkwelle-servalyne-309522233
+
 
 <!---
 NkwelleServalyne/NkwelleServalyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
